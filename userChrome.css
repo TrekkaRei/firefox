@@ -1,0 +1,33 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#nav-bar {
+  /* customize this value. */
+  --navbar-margin: -35px;
+
+  margin-top: var(--navbar-margin);
+  margin-bottom: 0;
+  z-index: -100;
+  transition: all 0.3s ease !important;
+  opacity: 0;
+}
+
+#navigator-toolbox:focus-within > #nav-bar
+/* #navigator-toolbox:hover > #nav-bar */
+
+{
+  margin-top: 0;
+  margin-bottom: var(--navbar-margin);
+  z-index: 100;
+  opacity: 1;
+}
+
+.tab-text: {
+	font-family: Fira Sans !important;
+	color: rgb(250,0,100) !important;
+	font-size: 14px !important;
+	margin-top: 2px !important;
+}
+
+.tabbrowser-tab .tab-close-button {
+  visibility: collapse !important;
+}

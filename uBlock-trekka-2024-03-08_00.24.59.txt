@@ -1,0 +1,217 @@
+twitch.tv##+js(twitch-videoad)
+||ads.twitch.tv^
+
+! 2024-02-10 https://www.twitch.tv
+
+www.twitch.tv##.cKIKxU.Layout-sc-1xcs6mc-0 > .cwtKyw.Layout-sc-1xcs6mc-0 > div > .cxJwKj.ScAttachedTooltipWrapper-sc-1ems1ts-0.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.followed-side-nav-header__dropdown-trigger.gArFRg.Layout-sc-1xcs6mc-0
+www.twitch.tv##.live-notifications__btn.Layout-sc-1xcs6mc-0 > .iMILUc.Layout-sc-1xcs6mc-0 > .cegTsp.ccqkQH.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.stream-chat-header.fiHaCw.Layout-sc-1xcs6mc-0
+www.twitch.tv##.toggle-visibility__right-column--expanded.toggle-visibility__right-column.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.side-nav__title.eCDqNH.Layout-sc-1xcs6mc-0 > .tw-title.ezNtJL.AAWwv.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
+www.twitch.tv##.collapse-toggle.gazthU.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.channel-panels.Layout-sc-1xcs6mc-0
+www.twitch.tv##.ldUFHV.Layout-sc-1xcs6mc-0
+www.twitch.tv##.hKEeil.Layout-sc-1xcs6mc-0
+www.twitch.tv##.tw-animated-glitch-logo.hDzAIT.ScLogoContainer-sc-mx5axi-0
+www.twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(3)
+www.twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(4)
+www.twitch.tv##.hERoTc.ScAnimatedNumber-sc-1iib0w9-0
+www.twitch.tv##.fHPQCq.ScSvg-sc-1hrsqw6-1
+www.twitch.tv##.ktLpvM.Layout-sc-1xcs6mc-0 > span > div
+www.twitch.tv##.simplebar-content > .cwtKyw.Layout-sc-1xcs6mc-0 > div
+www.twitch.tv##.cxokur.Layout-sc-1xcs6mc-0
+www.twitch.tv##.prime-offers.cwtKyw.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 .kBtJDm.InjectLayout-sc-1i43xsx-0 .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card.Layout-sc-1xcs6mc-0
+||static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/*$image
+
+www.twitch.tv##.jbmPmA.InjectLayout-sc-1i43xsx-0 > button
+www.twitch.tv##.cxJwKj.ScAttachedTooltipWrapper-sc-1ems1ts-0.Layout-sc-1xcs6mc-0 > .cwtKyw.Layout-sc-1xcs6mc-0 > div > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.cwtKyw.Layout-sc-1xcs6mc-0 > .ScTokenOverrideCSSVars-sc-13alv3m-0 > .ScAccentRegionCssVars-sc-1gab5n-0
+www.twitch.tv##.side-nav-card__avatar.bgXDR.Layout-sc-1xcs6mc-0 > .tw-avatar.dmnDPS.ScAvatar-sc-144b42z-0
+www.twitch.tv##.side-nav__title.eCDqNH.Layout-sc-1xcs6mc-0
+www.twitch.tv##.gPnGCC.Layout-sc-1xcs6mc-0 > .tw-title.ezNtJL.AAWwv.ScTitleText-sc-d9mj2s-0.CoreText-sc-1txzju1-0
+www.twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
+www.twitch.tv##.chat-line__status.Layout-sc-1xcs6mc-0
+www.twitch.tv##.gkrCJN.Layout-sc-1xcs6mc-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.gPnGCC.Layout-sc-1xcs6mc-0
+www.twitch.tv##.fiDbWi.CoreText-sc-1txzju1-0
+www.twitch.tv##.fEpwrH.bTXTVH.ScCoreButtonSuccess-sc-ocjdkq-5.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.tw-combo-input__button-icon--large.tw-combo-input__button-icon.cegTsp.hdjkmw.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.iWWhvN.InjectLayout-sc-1i43xsx-0.Layout-sc-1xcs6mc-0 > .scrollable-area > .vertical.simplebar-track
+www.twitch.tv##.scrollable-area--suppress-scroll-x.scrollable-area.rzgkN.InjectLayout-sc-1i43xsx-0 > .vertical.simplebar-track > .simplebar-scrollbar
+www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .fuXDrj.bTXTVH.ScCoreButtonText-sc-ocjdkq-3.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.side-nav-card__live-status.fCKtYt.Layout-sc-1xcs6mc-0 > .xxjeD.Layout-sc-1xcs6mc-0
+www.twitch.tv##.vertical-selector-card__container--lg.vertical-selector-card__container.Layout-sc-1xcs6mc-0
+www.twitch.tv###\33 26244a5766c927c > .iqUbUe.Layout-sc-1xcs6mc-0 > .fYclSG.CoreText-sc-1txzju1-0
+www.twitch.tv##.hljDeB.Layout-sc-1xcs6mc-0 > .fuXDrj.bTXTVH.ScCoreButtonText-sc-ocjdkq-3.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.bTXTVH.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.eMPFcb.gyvaIN.ScTextWrapper-sc-iekec1-1.Layout-sc-1xcs6mc-0 > .xxjeD.Layout-sc-1xcs6mc-0
+www.twitch.tv##.Layout-sc-1xcs6mc-0 > div > .show-more__move-up.kQOyWC.Layout-sc-1xcs6mc-0 > div.bUzDwo.Layout-sc-1xcs6mc-0
+www.twitch.tv##.live-channel-card > div > .jivRFd.Layout-sc-1xcs6mc-0 > .jnMKgW.Layout-sc-1xcs6mc-0 > .lcHstp.Layout-sc-1xcs6mc-0 > .REkcH.ScTextWrapper-sc-10mto54-1 > .hgouXh.ScTextMargin-sc-10mto54-2 > .tw-link.preview-card-channel-link.eBmhqT.ScCoreLink-sc-16kq0mq-0 > .gBknDX.CoreText-sc-1txzju1-0
+www.twitch.tv##.Layout-sc-1xcs6mc-0 > div > .show-more__move-up.kQOyWC.Layout-sc-1xcs6mc-0
+www.twitch.tv###\35 d756e623e5502f1 > .iqUbUe.Layout-sc-1xcs6mc-0 > .fYclSG.CoreText-sc-1txzju1-0
+www.twitch.tv##.scrollable-area.root-scrollable > .vertical.simplebar-track
+www.twitch.tv###\39 e6794365afe84d6 > .iqUbUe.Layout-sc-1xcs6mc-0 > .fYclSG.CoreText-sc-1txzju1-0
+!www.twitch.tv##.gmCwLG.bTXTVH.ScCoreButtonPrimary-sc-ocjdkq-1.ScCoreButton-sc-ocjdkq-0 > .gPDjGr.ScCoreButtonLabel-sc-s7h2b7-0
+www.twitch.tv##.fMEAso.CoreText-sc-1txzju1-0
+www.twitch.tv##.gieEor.ScImageWrapper-sc-10mto54-0
+www.twitch.tv##.ffz-directory-toggle-thumbnail.tw-button > .tw-button__text
+www.twitch.tv##.ffz-directory-buttons.tw-mg-t-1
+www.twitch.tv##.guPCKb.Layout-sc-1xcs6mc-0
+www.twitch.tv##.bMOhzu.Layout-sc-1xcs6mc-0 > .cegTsp.itFOsv.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.boOXAT.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kNyuUv.Layout-sc-1xcs6mc-0
+! chat
+www.twitch.tv##.jOVwMQ.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .gmCwLG.bTXTVH.ScCoreButtonPrimary-sc-ocjdkq-1.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.chat-line__timestamp
+www.twitch.tv##.chat-line__message.xxjeD.Layout-sc-1xcs6mc-0
+
+! remove all of the video player overlay
+!www.twitch.tv##.video-player__overlay
+
+! twitch block video overlay
+www.twitch.tv##.extensions-dock__layout
+
+! mature warning top left
+www.twitch.tv##.Layout-sc-1xcs6mc-0.kLjaOI.disclosure-card
+
+! IDK
+!www.twitch.tv##.Layout-sc-1xcs6mc-0.ekSTbl.disclosure-tool.dt-attach-top-right
+
+! 2024-02-10 https://www.youtube.com
+
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com##.yt-flexible-actions-view-model-wiz--scrollable.yt-flexible-actions-view-model-wiz--inline.yt-flexible-actions-view-model-wiz.page-header-view-model-wiz__page-header-flexible-actions--page-header-flexible-actions-margin.page-header-view-model-wiz__page-header-flexible-actions
+||yt3.ggpht.com/d6br4OglLHD-xIK7kxls-nAa_ffGHvPwYMC-nf6WexBRy0uUuMTvDcdX9mfJJshe8w_M6D9q=s120-c-k-c0x00ffffff-no-rj$image
+
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###sponsor-button
+www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text
+www.youtube.com##.yt-dropdown-menu.style-scope.dropdown-trigger
+www.youtube.com###content > .ytd-compact-infocard-renderer.style-scope
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
+||yt3.ggpht.com/ytc/AIf8zZSfXVdDsWwRkCasa-43OSOxAujgoJK3rdqvMpNLMw=s48-c-k-c0x00ffffff-no-rj$image
+
+www.youtube.com##.ytd-menu-renderer.style-scope > .yt-icon.style-scope > .yt-spec-icon-shape > div
+www.youtube.com##ytd-video-description-course-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##.yt-content-metadata-view-model-wiz--tappable.yt-content-metadata-view-model-wiz--inline.yt-content-metadata-view-model-wiz.page-header-view-model-wiz__page-header-content-metadata
+www.youtube.com##ytd-rich-metadata-renderer.ytd-rich-metadata-row-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+www.youtube.com##.ytp-paid-content-overlay-link
+www.youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-engagement-panel-section-list-renderer.ytd-watch-flexy.style-scope:nth-of-type(2)
+
+! buttons and recommended
+www.youtube.com##ytd-item-section-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##.ytd-download-button-renderer.style-scope
+youtube.com##[aria-label="Thanks"]
+youtube.com##[aria-label="Share"]
+youtube.com##[aria-label="Clip"]
+youtube.com###author-thumbnail,#avatar
+www.youtube.com##.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+www.youtube.com##.no-transition.ytd-guide-entry-renderer.style-scope
+www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-icon
+www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.page-header-banner-image
+
+! 2024-02-10 https://www.google.com
+www.google.com##.mWcf0e.uquUgf > .LRZwuc.VfL2Y > .W7GCoc
+www.google.com##.nDcEnd
+www.google.com###result-stats
+www.google.com##.sATSHe > div > .NFQFxe.wDYxhc
+www.google.com##.sATSHe > div > .wDYxhc
+www.google.com##[href^="/intl/en_se/googlefinance/disclaimer/"]
+www.google.com##.e3sOrb
+www.google.com##.adDDi.kfsfbe
+www.google.com##.xKf9F.KFFQ0c
+www.google.com##.oqQXff
+www.google.com##.YeThId
+www.google.com###C5BE07EE-F763-40BF-8E6F-D895A798AE72 > div > .lUn2nc.eY4mx.rNSxBe.iTPLzd.MJ8UF
+www.google.com##.IDFSOe
+www.google.com##.fLciMb
+www.google.com##.fKmH1e
+www.google.com##.jklcHd
+www.google.com##.acCJ4b
+www.google.com##.OsZ04d.qe1Dgc
+www.google.com###_fgjHZdv6Ae2Exc8PpKu_8A8_50 > div > .sATSHe
+www.google.com##.gyswkf.jHARG.WY0eLb.Hwkikb.TzHB6b
+www.google.com###_fgjHZdv6Ae2Exc8PpKu_8A8_49 > div > .sATSHe > .iRPzcb.MsCHpb
+www.google.com##.ApHyTb.a0rafc.QprcBd.PmPt7d
+www.google.com###_1gjHZaLoHpGRxc8PpN-KgAE_50 > div > .sATSHe
+www.google.com###_4wjHZcDTJIuVxc8PhPSb0Ac_56
+www.google.com##.LagAxe.XmUWu
+
+! 2024-02-10 https://twitter.com
+twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(5)
+twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-175oi2r
+twitter.com##.r-ymttw5.r-1w6e6rj.r-18u37iz.css-175oi2r
+twitter.com##.r-494qqr.css-175oi2r
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(6)
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(4)
+twitter.com##.r-1j3t67a.r-1w6e6rj.r-18u37iz.css-175oi2r
+twitter.com##.r-kmv1fd.r-1j3t67a.r-uaa2di.r-eqz5dr.r-1habvwh.css-175oi2r
+twitter.com##div.r-74htps.r-g6ijar.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(3)
+twitter.com##div.r-1iud8zs.css-175oi2r:nth-of-type(2)
+twitter.com##.r-1b3ntt7.r-1hees3c.css-175oi2r
+twitter.com##.r-18qmn74.r-1777fci.r-16y2uox.r-6koalj.r-1loqt21.r-1pz39u2.r-1awozwy.css-175oi2r > .r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-mtrfb5.r-1jayybb.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r > .r-1777fci.r-16y2uox.r-18u37iz.r-6koalj.r-1awozwy.r-b88u0q.r-hjklzo.r-1b43r93.r-q4m81j.r-1qd0xha.r-qvutc0.r-bcqeeo.css-1rynq56
+
+! 2024-02-10 https://www.reddit.com
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(5)
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(2)
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(1)
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(6)
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(7)
+www.reddit.com###RESOURCES
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.xs\:pt-md.pt-xs.mb-0.mt-0.flex-col.flex.box-border.z-\[2\].bg-neutral-background > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.justify-between.flex
+www.reddit.com##left-nav-communities-controller
+www.reddit.com##left-nav-create-community-button
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.xs\:pt-md.pt-xs.mb-0.mt-0.flex-col.flex.box-border.z-\[2\].bg-neutral-background > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-\[8px\].bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.justify-between.flex
+www.reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.xs\:pt-md.pt-xs.mb-0.mt-0.flex-col.flex.box-border.z-\[2\].bg-neutral-background > hr.border-neutral-border-weak.my-sm.w-100
+www.reddit.com##hr.border-neutral-border-weak:nth-of-type(1)
+www.reddit.com##hr.my-md.border-neutral-border-weak:nth-of-type(2)
+www.reddit.com##hr.my-md.border-neutral-border-weak:nth-of-type(6)
+www.reddit.com##hr.my-md.border-neutral-border-weak:nth-of-type(5)
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(8)
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(9)
+www.reddit.com##.md > h2
+www.reddit.com##div.text-neutral-content-weak.px-md:nth-of-type(10)
+www.reddit.com##hr.border-neutral-border-weak:nth-of-type(2)
+www.reddit.com##hr.my-md.border-neutral-border-weak:nth-of-type(7)
+www.reddit.com##hr.my-md.border-neutral-border-weak:nth-of-type(8)
+www.reddit.com##hr.my-md.border-neutral-border-weak:nth-of-type(9)
+www.reddit.com##.px-md.text-10.text-tone-2.no-underline
+
+! 2024-02-13 https://www.youtube.com
+www.youtube.com##h3.ytd-guide-section-renderer.style-scope > .ytd-guide-section-renderer.style-scope
+www.youtube.com###pivot-button > .ytd-reel-player-overlay-renderer.style-scope
+www.youtube.com###share-button > .ytd-reel-player-overlay-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+
+! 2024-02-18 https://twitter.com
+twitter.com##.r-4wgw6l.r-1777fci.r-16y2uox.r-6koalj.r-1loqt21.r-1pz39u2.r-1awozwy.css-175oi2r > .r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-64el8z.r-19yznuf.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r > .r-1777fci.r-16y2uox.r-18u37iz.r-6koalj.r-1awozwy.r-b88u0q.r-rjixqe.r-a023e6.r-q4m81j.r-1qd0xha.r-qvutc0.r-bcqeeo.css-1rynq56
+
+! 2024-02-21 https://reitrek.imgur.com
+||s.imgur.com/images/subdomain_upload_message.png$image
+reitrek.imgur.com###footer
+||s.imgur.com/images/subdomain_upload_message.png$image
+
+! 2024-02-21 https://imgur.com
+imgur.com##.UploadSpinner-contentWrapper
+
+! 2024-02-25 https://www.twitch.tv
+www.twitch.tv##.community-highlight-stack__backlog-card.hooeLW.Layout-sc-1xcs6mc-0
+
