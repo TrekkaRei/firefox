@@ -32,7 +32,6 @@
   visibility: collapse !important;
 }
 
- /* CONTEXT MENU */
 .menupopup-arrowscrollbox {
   background-color: rgba(10,10,10,0.95) !important;
   color: rgb(150,150,150) !important;
@@ -41,10 +40,14 @@
   border-radius: 0px !important;
   padding-left: 1px !important;
   padding-right: 1px !important;
-  /* box-shadow: inset 0px 0px 1px 1px rgba(100,250,150,0.8) !important; */
 }
 
- /* CONTEXT MENU HOVER */
+menupopup > menu, menupopup > menuitem {
+   padding: 6px !important;
+   font-family: ubuntu !important;
+   font-size: 13px !important;
+}
+
 menupopup > menu, menupopup > menuitem:hover{
    background-color: rgba(10,10,10,0.5) !important;
    box-shadow: inset 0px 0px 1px 1px rgba(100,250,150,0.8) !important; 
