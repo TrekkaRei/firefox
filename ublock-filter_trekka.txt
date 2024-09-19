@@ -14,7 +14,6 @@ www.twitch.tv##.channel-panels.Layout-sc-1xcs6mc-0
 www.twitch.tv##.ldUFHV.Layout-sc-1xcs6mc-0
 www.twitch.tv##.hKEeil.Layout-sc-1xcs6mc-0
 www.twitch.tv##.tw-animated-glitch-logo.hDzAIT.ScLogoContainer-sc-mx5axi-0
-www.twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(3)
 www.twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(4)
 www.twitch.tv##.hERoTc.ScAnimatedNumber-sc-1iib0w9-0
 www.twitch.tv##.fHPQCq.ScSvg-sc-1hrsqw6-1
@@ -215,3 +214,36 @@ imgur.com##.UploadSpinner-contentWrapper
 ! 2024-02-25 https://www.twitch.tv
 www.twitch.tv##.community-highlight-stack__backlog-card.hooeLW.Layout-sc-1xcs6mc-0
 
+! 2024-03-16 https://clips.twitch.tv
+clips.twitch.tv##.iAAiAK.ScSvg-sc-mx5axi-2
+
+! 2024-04-07 https://www.twitch.tv
+www.twitch.tv##.undefined.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bTXTVH.ScCoreButton-sc-ocjdkq-0
+
+! 2024-05-02 https://www.twitch.tv
+www.twitch.tv##.jwFWrG.Layout-sc-1xcs6mc-0
+
+! 2024-05-20 https://www.twitch.tv
+www.twitch.tv##.kEPLoI.Layout-sc-1xcs6mc-0
+
+! Jun 7, 2024 https://www.twitch.tv
+www.twitch.tv##.community-highlight.jxaBAK.Layout-sc-1xcs6mc-0
+
+! Jun 13, 2024 https://www.twitch.tv
+www.twitch.tv##.collapse-toggle.gazthU.Layout-sc-1xcs6mc-0
+www.twitch.tv##.toggle-visibility__right-column--expanded.toggle-visibility__right-column.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.ljgEdo.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.undefined.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.ljgEdo.ScCoreButton-sc-ocjdkq-0
+
+! Jun 30, 2024 https://www.twitch.tv
+www.twitch.tv##.ezCDBg.Layout-sc-1xcs6mc-0
+www.twitch.tv##.hLgTAv.Layout-sc-1xcs6mc-0
+
+! Jul 10, 2024 https://www.youtube.com
+www.youtube.com###contents > .ytd-secondary-search-container-renderer.style-scope
+
+! Jul 26, 2024 https://www.twitch.tv
+www.twitch.tv##.collapse-toggle.eeRiXn.Layout-sc-1xcs6mc-0
+
+! Aug 16, 2024 https://www.twitch.tv
+www.twitch.tv##.storiesLeftNavSection--csO9S.dcyYPL.Layout-sc-1xcs6mc-0 > button
+www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
