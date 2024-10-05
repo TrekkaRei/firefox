@@ -21,6 +21,10 @@
   opacity: 1;
 }
 
+#alltabs-button {
+    display: none;
+}
+
 .tab-text: {
 	font-family: Fira Sans !important;
 	color: rgb(250,0,100) !important;
