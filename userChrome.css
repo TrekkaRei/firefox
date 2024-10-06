@@ -1,5 +1,6 @@
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
+
 #nav-bar {
   /* customize this value. */
   --navbar-margin: -35px;
@@ -9,6 +10,11 @@
   z-index: -100;
   transition: all 0.3s ease !important;
   opacity: 0;
+}
+
+/* remove line under tabbar */
+#navigator-toolbox {
+  border-bottom: none !important;
 }
 
 #navigator-toolbox:focus-within > #nav-bar
