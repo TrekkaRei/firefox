@@ -247,3 +247,17 @@ www.twitch.tv##.collapse-toggle.eeRiXn.Layout-sc-1xcs6mc-0
 ! Aug 16, 2024 https://www.twitch.tv
 www.twitch.tv##.storiesLeftNavSection--csO9S.dcyYPL.Layout-sc-1xcs6mc-0 > button
 www.twitch.tv##.kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
+
+! Oct 8, 2024 https://www.twitch.tv
+www.twitch.tv##.lcFJxY.Layout-sc-1xcs6mc-0
+www.twitch.tv##.toggle-visibility__right-column--expanded.toggle-visibility__right-column.right-column__toggle-visibility.kLMGYG.Layout-sc-1xcs6mc-0 > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .eSFFfM.ScButtonIcon-sc-9yap0r-0.bmPBgZ.ScCoreButton-sc-ocjdkq-0
+
+! Oct 11, 2024 https://htmlcolorcodes.com
+htmlcolorcodes.com##.js-header.magenta.page-header
+!htmlcolorcodes.com##.body-header
+htmlcolorcodes.com##h2 > [href="/color-picker/"]
+htmlcolorcodes.com###home > .row > p
+htmlcolorcodes.com###home > .row > .row.buttons > [href] > .gray.border.button
+
+! Oct 11, 2024 https://htmlcolorcodes.com
+htmlcolorcodes.com##.fixed.show-md.js-social.social
